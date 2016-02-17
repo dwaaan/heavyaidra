@@ -8,4 +8,4 @@ Read </i>heavyhidra.py</i>
 <h3>I'm not a programmer. Did you add errors to prevent non-programmers from using it?</h3>
 Nope. Feel free to do your own independent research this project!
 <h3>How can I donate money to this project?</h3>
-With Bitcoin: <i>13rddMd7ErFQYsjYPfYAnqxmPzZxQPrVyo</i>
+With Bitcoin: <i>1JiyTFYsubsRzwj8uCtzxRirnr33wGS5YB</i>
